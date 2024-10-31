@@ -1,0 +1,37 @@
+.bod{
+    align-items: center;
+    text-align: center;
+    margin-top: 20%;
+    #increment{
+        background-color: rgb(135, 206, 30);
+        color: purple;
+        border: none;
+        font-weight: bolder;
+    }
+    #decrement{
+        background-color: red;
+        color: white;
+        border: none;
+        font-weight: bolder;
+        margin: 10%;
+    }
+    #reset{
+        background-color: rgb(123, 132, 236);
+        color: white;
+        border: none;
+        font-weight: bolder;
+    }
+}
+
+#count{
+    background-color: aquamarine;
+}
+
+.cart{
+    background-color: chocolate;
+    width: 200px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    color: rgb(16, 247, 247);
+}
